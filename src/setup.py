@@ -1,0 +1,1 @@
+pip install pandas networkx pyvis matplotlib requests beautifulsoup4
